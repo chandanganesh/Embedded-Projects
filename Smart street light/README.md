@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on challenging embedded system projects
 - 📫 How to reach me chandanganesh@hotmail.com
 
-- online simulation 
-- YouTube link 
+- online simulation : https://drive.google.com/file/d/1jHV4OdCNl1YtH3v5HkRT7-VXVjZlHeH7/view?usp=sharing
+- Video link : https://www.tinkercad.com/things/evwkx7V9xuA
 
 <!---
 chandanganesh/chandanganesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
